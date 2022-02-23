@@ -300,7 +300,7 @@ const App = () => {
 
 	const renderNotConnectedContainer = () => (
 		<div className="connect-wallet-container">
-			<img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" alt="Ninja gif" />
+			<img src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy-downsized-large.gif" alt="Blockchain gif" />
 			<button onClick={connectWallet} className="cta-button connect-wallet-button">
 				Connect Wallet
 			</button>
